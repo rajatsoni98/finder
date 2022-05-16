@@ -1,13 +1,12 @@
-body {
-  padding:20px;
-  color:purple;
-  background-color:pink;
-}
+
 .navbar {
   background-color:pink;
+  margin-bottom:2rem;
 }
 .bodi {
-  padding:25px 300px 0 300px;
+  padding:25px 300px 25px 300px;
+  background-color: pink;
+  border-bottom: 1px solid;
 }
 .navbar-brand {
   font-family: 'Macondo', cursive;
@@ -47,4 +46,8 @@ hr {
 .tinder {
 height:23rem;
 width:20rem;
+transform:rotate(10deg);
+}
+.bodies {
+  padding:25px 300px 25px 300px;
 }

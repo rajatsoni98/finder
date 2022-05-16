@@ -1,0 +1,50 @@
+body {
+  padding:20px;
+  color:purple;
+  background-color:pink;
+}
+.navbar {
+  background-color:pink;
+}
+.bodi {
+  padding:25px 300px 0 300px;
+}
+.navbar-brand {
+  font-family: 'Macondo', cursive;
+  font-size: 2rem;
+  color:red;
+}
+.navbar-nav {
+  font-family: 'Montserrat', sans-serif;
+  font-size:1.25rem;
+}
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 2rem;
+}
+
+.cp {
+  height:5rem;
+}
+.hw {
+  height:5rem;
+}
+.bt {
+  height:5rem;
+}
+h6 {
+  color:red;
+  font-weight: bolder;
+  margin-bottom: auto;
+
+}
+p {
+  color:black;
+}
+hr {
+  border:1px solid;
+}
+.tinder {
+height:23rem;
+width:20rem;
+}

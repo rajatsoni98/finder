@@ -4,38 +4,46 @@
   margin-bottom:2rem;
 }
 .bodi {
-  padding:25px 300px 25px 300px;
+  padding:2% 15% 5%;
   background-color: pink;
   border-bottom: 1px solid;
 }
 .navbar-brand {
   font-family: 'Macondo', cursive;
-  font-size: 2rem;
+  font-size:3rem;
   color:red;
 }
 .navbar-nav {
-  font-family: 'Montserrat', sans-serif;
   font-size:1.25rem;
 }
+.nav-link {
+  margin:0 10px;
+  font-weight:400;
+}
 h1 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Montserrat-Bold', sans-serif;
   margin-top: 2rem;
+  font-size: 3rem;
+  font-weight: bolder;
 }
 
 .cp {
-  height:5rem;
+  height:7rem;
+  margin-bottom:0.5rem;
 }
 .hw {
-  height:5rem;
+  height:7rem;
+  margin-bottom:0.5rem;
+
 }
 .bt {
-  height:5rem;
+  height:7rem;
+  margin-bottom:0.5rem;
 }
 h6 {
   color:red;
   font-weight: bolder;
   margin-bottom: auto;
-
 }
 p {
   color:black;
@@ -49,5 +57,70 @@ width:20rem;
 transform:rotate(10deg);
 }
 .bodies {
-  padding:25px 300px 25px 300px;
+  padding:5% 15%;
+  text-align:center;
+  border-bottom:1px solid;
+}
+.fa-apple {
+ margin:0 8px 0 2px;
+}
+.fa-android {
+  margin:0 8px 0 2px;
+}
+.social {
+  text-align:center;
+  background-color: pink;
+  border-bottom:1px solid;
+  padding:5% 10% 4%;
+}
+.insta {
+  height:1.37rem;
+}
+.twitter {
+  height:1.37rem;
+}
+.facebook {
+  height:1.37rem;
+}
+.tiktok {
+  height:1.37rem;
+}
+.youtube {
+  height:1.37rem;
+}
+h4 {
+  margin-bottom:5%;
+}
+.faq {
+  margin-bottom:5%;
+  color:black;
+  padding-top:3%;
+}
+.last{
+  padding:5%;
+  text-align:center;
+  background-color: pink;
+  border-bottom: 1px solid;
+}
+.socials{
+  margin:auto;
+}
+.height {
+  line-height:2;
+}
+.boxes {
+border-bottom:1px solid;
+padding:5%;
+}
+
+h5 {
+  margin-top:2.5%;
+}
+.para {
+  margin-bottom:15%;
+}
+.rounded-4 {
+  border:1px dotted;
+  border-width:4px;
+  border-color: red;
 }

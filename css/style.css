@@ -1,25 +1,28 @@
-
 .navbar {
-  background-color:pink;
-  margin-bottom:2rem;
+  background-color:#483d54;
+  margin-bottom: 2rem;
 }
+
 .bodi {
-  padding:2% 15% 5%;
-  background-color: pink;
-  border-bottom: 1px solid;
+  padding: 2% 15% 5%;
+  background-color:#483d54;
 }
+
 .navbar-brand {
   font-family: 'Macondo', cursive;
-  font-size:3rem;
-  color:red;
+  font-size: 3rem;
+  color:#db3da7;
 }
+
 .navbar-nav {
-  font-size:1.25rem;
+  font-size: 1.25rem;
 }
-.nav-link {
-  margin:0 10px;
-  font-weight:400;
+
+.nav-item {
+  color:#f2f0f5;
+    font-family: 'Montserrat', sans-serif;
 }
+
 h1 {
   font-family: 'Montserrat-Bold', sans-serif;
   margin-top: 2rem;
@@ -28,99 +31,153 @@ h1 {
 }
 
 .cp {
-  height:7rem;
-  margin-bottom:0.5rem;
+  height: 7rem;
+  margin-bottom: 0.5rem;
 }
-.hw {
-  height:7rem;
-  margin-bottom:0.5rem;
 
+.hw {
+  height: 7rem;
+  margin-bottom: 0.5rem;
 }
+
 .bt {
-  height:7rem;
-  margin-bottom:0.5rem;
+  height: 7rem;
+  margin-bottom: 0.5rem;
 }
+
 h6 {
-  color:red;
+  color: red;
   font-weight: bolder;
   margin-bottom: auto;
 }
+
 p {
-  color:black;
+  color: black;
 }
+
 hr {
-  border:1px solid;
+  border: 1px solid;
 }
+
 .tinder {
-height:23rem;
-width:20rem;
-transform:rotate(10deg);
+  height: 23rem;
+  width: 20rem;
+  transform: rotate(10deg);
+
 }
+
 .bodies {
-  padding:5% 15%;
-  text-align:center;
-  border-bottom:1px solid;
+  padding: 5% 15% 3% ;
+  text-align: center;
+
+
 }
+
 .fa-apple {
- margin:0 8px 0 2px;
+  margin: 0 8px 0 2px;
 }
+
 .fa-android {
-  margin:0 8px 0 2px;
+  margin: 0 8px 0 2px;
 }
-.social {
-  text-align:center;
-  background-color: pink;
-  border-bottom:1px solid;
-  padding:5% 10% 4%;
+
+#social {
+  text-align: center;
+  padding: 5% 10% 2%;
 }
+
 .insta {
-  height:1.37rem;
+  height: 1.37rem;
 }
+
 .twitter {
-  height:1.37rem;
+  height: 1.37rem;
 }
+
 .facebook {
-  height:1.37rem;
+  height: 1.37rem;
 }
+
 .tiktok {
-  height:1.37rem;
+  height: 1.37rem;
 }
+
 .youtube {
-  height:1.37rem;
+  height: 1.37rem;
 }
+
 h4 {
-  margin-bottom:5%;
+  margin-bottom: 5%;
 }
+
 .faq {
-  margin-bottom:5%;
-  color:black;
-  padding-top:3%;
+  margin-bottom: 5%;
+  color: black;
+  padding-top: 3%;
 }
-.last{
-  padding:5%;
-  text-align:center;
-  background-color: pink;
-  border-bottom: 1px solid;
+
+#download {
+  padding: 5%;
+  text-align: center;
+  background-color:#483d54;
 }
-.socials{
-  margin:auto;
+
+.socials {
+  margin: auto;
 }
+
 .height {
-  line-height:2;
+  line-height: 2;
 }
+
 .boxes {
-border-bottom:1px solid;
-padding:5%;
+  padding: 5%;
 }
 
 h5 {
-  margin-top:2.5%;
+  margin-top: 2.5%;
 }
+
 .para {
-  margin-bottom:15%;
+  margin-bottom: 15%;
 }
+
 .rounded-4 {
-  border:1px dotted;
-  border-width:4px;
+  border: 1px dotted;
+  border-width: 4px;
   border-color: red;
+}
+
+#reviews {
+  padding: 2% 15% 5%;
+}
+
+.card {
+  margin: auto;
+  border-color: red;
+  padding: 10px;
+}
+
+.card-deck {
+  padding:3% 15% 5%;
+  text-align: center;
+}
+
+#pricing {
+  background-color:#483d54;
+}
+.pricing-head {
+  font-family:Montserrat;
+  padding-top:4%;
+  color:#f2f0f5;
+}
+.review-head {
+  text-align:center;
+  padding:3% 15% 0;
+  font-family:Montserrat;
+}
+.download-p {
+  margin-top:4%;
+  color:#f2f0f5;
+
 }
